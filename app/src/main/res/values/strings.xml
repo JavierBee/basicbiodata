@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">biodata</string>
+    <string name="nim">NIM:A11.2018.11445</string>
+    <string name="nama">Nama:Javier Bima Pridatama</string>
+    <string name="foto">foto</string>
+    <string name="hobi">Hoby:game,golf,play instrument music</string>
+    <string name="deskripsi">Halo saya adalah mahasiswa udinus jurusan teknik informatika semester 5.</string>
+    <string name="alamat">alamat</string>
+    <string name="nomer_telpon">nomer telpon</string>
+    <string name="email">Email</string>
+    <string name="biodata">Biodata</string>
+
+</resources>
